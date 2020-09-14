@@ -1,4 +1,4 @@
-# Measurement Infrastructure for Distributed communicAtion and Sensing 
+# MIDAS - Measurement Infrastructure for Distributed communicAtion and Sensing 
 
 ![](https://github.com/versatile-by-dramco/infrastructure/blob/master/img/state-14-09-2020.jpg)
 
