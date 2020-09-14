@@ -1,6 +1,6 @@
 # Measurement Infrastructure for Distributed communicAtion and Sensing 
 
-![](./state-14-09-2020.jpg)
+![](https://github.com/versatile-by-dramco/infrastructure/blob/master/img/state-14-09-2020.jpg)
 
 Versatile is the project name encompassing all hardware, software and infrastructure.
 MIDAS consists of a data acquisition and processing equipment backbone and a fine-grained network
