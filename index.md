@@ -21,6 +21,9 @@ Communication/Sensing:
 - Acoustic (& ultra-sound)
 
 
+## Positioning
+3D Positioning with [Marvelmind](https://marvelmind.com/) with an advertised accuracy of ±2cm.
+
 
 ## Server infrastructure
 TBD
